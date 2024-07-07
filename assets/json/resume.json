@@ -11,6 +11,7 @@
     {
       "name": "University at Buffalo",
       "position": "Doctoral Researcher",
+      "location": "Buffalo, New York",
       "url": "https://example.com",
       "startDate": "2019-08-31",
       "endDate": "2024-08-31",
@@ -35,27 +36,24 @@
       "institution": "University at Buffalo, Buffalo, New York",
       "location": "Buffalo, New York",
       "url": "https://engineering.buffalo.edu/computer-science-engineering.html/",
-      "area": "Computer Science",
-      "studyType": "PhD",
+      "area": "Multi-Party Computation Techniques and Information Disclosure Evaluation for Data Analytics",
+      "studyType": "PhD, Computer Science",
       "startDate": "2019-08-31",
-      "endDate": "2024-08-31",
-      "courses": ["Multi-Party Computation Techniques and Information Disclosure Evaluation for Data Analytics"]
+      "endDate": "2024-08-31"
     },
     {
-      "institution": "Fordham University, Bronx, New York",
+      "institution": "Fordham University",
       "location": "Bronx, New York",
       "url": "https://www.fordham.edu/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-cybersecurity/",
-      "area": "Cybersecurity",
-      "studyType": "MS",
+      "studyType": "MS, Cybersecurity",
       "startDate": "2017-08-31",
       "endDate": "2019-05-31"
     },
     {
-      "institution": "Fordham University, Bronx, New York",
+      "institution": "Fordham University",
       "location": "Bronx, New York",
       "url": "https://www.fordham.edu/academics/departments/physics-and-engineering-physics//",
-      "area": "Physics",
-      "studyType": "BS",
+      "studyType": "BS, Physics",
       "startDate": "2013-08-31",
       "endDate": "2017-05-31",
       "courses": ["Mathematics Minor"]
