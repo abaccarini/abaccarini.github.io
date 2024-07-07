@@ -16,15 +16,29 @@ $green-color-lime: #b7d12a !default;
 $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
-$purple-color: #b509ac !default;
+$purple-color: #BD93F9 !default;
 $light-purple-color: lighten($purple-color, 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+
+
+$dracula-fg: #F8F8F2 !default;
+$dracula-bg: #282A36 !default;
+$dracula-current-line: #44475A !default;
+$dracula-comment: #6272A4 !default;
+$dracula-cyan: #8BE9FD !default;
+$dracula-green: #50FA7B !default;
+$dracula-orange: #FFB86C !default;
+$dracula-pink: #FF79C6 !default;
+$dracula-purple: #BD93F9 !default;
+$dracula-red: #FF5555 !default;
+$dracula-yellow: #F1FA8C !default;
+
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: #1c1c1d;
+$grey-color-dark: #282A36;
 $grey-900: #212529;
 
 $white-color: #ffffff !default;
