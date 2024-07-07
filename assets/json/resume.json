@@ -33,13 +33,14 @@
   ],
   "education": [
     {
-      "institution": "University at Buffalo, Buffalo, New York",
+      "institution": "University at Buffalo",
       "location": "Buffalo, New York",
       "url": "https://engineering.buffalo.edu/computer-science-engineering.html/",
       "area": "Multi-Party Computation Techniques and Information Disclosure Evaluation for Data Analytics",
       "studyType": "PhD, Computer Science",
       "startDate": "2019-08-31",
-      "endDate": "2024-08-31"
+      "endDate": "2024-08-31",
+      "courses": ["Advisor: Marina Blanton"]
     },
     {
       "institution": "Fordham University",
@@ -47,7 +48,8 @@
       "url": "https://www.fordham.edu/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-cybersecurity/",
       "studyType": "MS, Cybersecurity",
       "startDate": "2017-08-31",
-      "endDate": "2019-05-31"
+      "endDate": "2019-05-31",
+      "courses": ["Advisor: Thaier Hayajneh"]
     },
     {
       "institution": "Fordham University",
@@ -64,9 +66,9 @@
     {
       "title": "Alan Selman Scholarship",
       "date": "2024-03-20",
-      "awarder": "University at Buffalo: School of Engineering and Applied Sciences",
+      "awarder": "University at Buffalo School of Engineering and Applied Sciences",
       "url": "https://buffalo.academicworks.com/opportunities/15982",
-      "summary": "This award is aimed towards students studying theoretical computer science."
+      "summary": "This award is aimed towards students studying theoretical computer science. Received first place $2000 cash prize."
     }
   ],
   "publications": [
