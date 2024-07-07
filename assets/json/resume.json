@@ -4,15 +4,8 @@
     "label": "Cryptographer",
     "image": "",
     "email": "abaccarini@proton.me",
-    "url": "https://abaccarini.github.io/publications/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    }
+    "url": "https://abaccarini.github.io/publications/"
+   
   },
   "work": [
     {
@@ -46,9 +39,29 @@
       "studyType": "PhD",
       "startDate": "2019-08-31",
       "endDate": "2024-08-31",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Multi-Party Computation Techniques and Information Disclosure Evaluation for Data Analytics"]
+    },
+    {
+      "institution": "Fordham University, Bronx, New York",
+      "location": "Bronx, New York",
+      "url": "https://www.fordham.edu/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-cybersecurity/",
+      "area": "Cybersecurity",
+      "studyType": "MS",
+      "startDate": "2017-08-31",
+      "endDate": "2019-05-31"
+    },
+    {
+      "institution": "Fordham University, Bronx, New York",
+      "location": "Bronx, New York",
+      "url": "https://www.fordham.edu/academics/departments/physics-and-engineering-physics//",
+      "area": "Physics",
+      "studyType": "BS",
+      "startDate": "2013-08-31",
+      "endDate": "2017-05-31",
+      "courses": ["Mathematics Minor"]
     }
   ],
+  
   "awards": [
     {
       "title": "Alan Selman Scholarship",
@@ -107,16 +120,6 @@
         "Quantum Communication",
         "Quantum Teleportation"
       ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
