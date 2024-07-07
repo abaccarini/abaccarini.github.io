@@ -1,9 +1,11 @@
 github_users:
   - abaccarini
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
   - applied-crypto-lab/picco
+  - abaccarini/RSS_ring_ppml
   - abaccarini/estimators
+  - abaccarini/dotfiles
   - abaccarini/apple-psi-python
