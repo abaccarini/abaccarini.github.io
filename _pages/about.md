@@ -21,12 +21,18 @@ social: true # includes social icons at the bottom of the page
 
 Hi! 👋
 
-I'm a doctoral researcher at the University at Buffalo, advised by [Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/).
+I'm a 5th year computer sicence PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My interests broadly encopmass information security, applied cryptography, and privacy enhancing technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Specifically, I design protocols for secure multi-party computation. 
+synthesizing many various research domains in order to devise highly performant solutions.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In conjunction with this work, I'm the primary developer on *[PICCO](https://github.com/applied-crypto-lab/picco/)*, a srouce-to-source compiler to translate general purpose programs into a secure variant for deployment in a distributed setting. This involves optimizing existing protocol implementations, while simultaneously developing new ones.
 
-When I'm not working, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! 
+The second area of interest is researching the suitability from an information-theoretic perspective.  
+
+Prior to starting my PhD, I earned my masters in Cybersecurity from Fordham University, where I also obtained my bachelors in Physics.
+
+
+When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! 
