@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>301C Davis Hall</p>
-    <p>Dept. of Computer Science and Engineering</p>
-    <p>University at Buffalo</p>
-    <p>Buffalo, NY 14260</p>
+    <p>301C Davis Hall <br />
+    Dept. of Computer Science and Eng. <br />
+    University at Buffalo <br />
+    Buffalo, NY 14260 <br />
     <tt> abaccarini [at] proton [dot] me </tt> <p/> 
 
 news: true # includes a list of news items
@@ -20,13 +20,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! 👋
+Hi, thanks for stopping by! 👋 
 
-I'm a 5th year computer science PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo. My interests span across areas consisting of information security, applied cryptography, and privacy enhancing technologies.
+I'm a 5th year computer science PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo. My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
 
-Concretely, I construct protocols for secure multi-party computation based on secret sharing. We entertain a wide domain of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing various research domains in order to devise highly performant solutions.
+Concretely, I design protocols for secure multi-party computation based on secret sharing with a wide range of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing various research domains to build highly performant solutions.
 
-In conjunction with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), a source-to-source compiler to translate general purpose programs into a secure variant for deployment in a distributed setting. I'm frequently optimizing existing protocol implementations, developing and implementing new techniques, and .
+In conjunction with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure variants for deployment in a distributed setting. I'm frequently optimizing existing protocol source code, while concurrently developing implementaitons for new techniques.
 
 <!-- The second area of interest is researching private information disclosure from secure function evaluation from an information-theoretic perspective. -->
 
