@@ -13,6 +13,7 @@ profile:
     <p>Dept. of Computer Science and Engineering</p>
     <p>University at Buffalo</p>
     <p>Buffalo, NY 14260</p>
+    <tt> abaccarini [at] proton [dot] me </tt> <p/> 
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,18 +22,14 @@ social: true # includes social icons at the bottom of the page
 
 Hi! 👋
 
-I'm a 5th year computer sicence PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo.
+I'm a 5th year computer science PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo. My interests span across areas consisting of information security, applied cryptography, and privacy enhancing technologies.
 
-My interests broadly encopmass information security, applied cryptography, and privacy enhancing technologies.
+Concretely, I construct protocols for secure multi-party computation based on secret sharing. We entertain a wide domain of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing various research domains in order to devise highly performant solutions.
 
-Specifically, I design protocols for secure multi-party computation. 
-synthesizing many various research domains in order to devise highly performant solutions.
+In conjunction with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), a source-to-source compiler to translate general purpose programs into a secure variant for deployment in a distributed setting. I'm frequently optimizing existing protocol implementations, developing and implementing new techniques, and .
 
-In conjunction with this work, I'm the primary developer on *[PICCO](https://github.com/applied-crypto-lab/picco/)*, a srouce-to-source compiler to translate general purpose programs into a secure variant for deployment in a distributed setting. This involves optimizing existing protocol implementations, while simultaneously developing new ones.
-
-The second area of interest is researching the suitability from an information-theoretic perspective.  
+<!-- The second area of interest is researching private information disclosure from secure function evaluation from an information-theoretic perspective. -->
 
 Prior to starting my PhD, I earned my masters in Cybersecurity from Fordham University, where I also obtained my bachelors in Physics.
 
-
-When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! 
+When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
