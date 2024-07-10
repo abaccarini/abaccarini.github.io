@@ -28,9 +28,6 @@
       "startDate": "2020-01-01",
       "summary": ".",
       "highlights": [
-        "Secure Multi-Party Computation",
-        "Secret Sharing",
-        "Information Theory"
       ]
     },
     {
@@ -41,9 +38,6 @@
       "startDate": "2020-01-01",
       "summary": ".",
       "highlights": [
-        "Secure Multi-Party Computation",
-        "Secret Sharing",
-        "Information Theory"
       ]
     },
     {
@@ -55,9 +49,7 @@
       "endDate": "2019-05-31",
       "summary": ".",
       "highlights": [
-        "Secure Multi-Party Computation",
-        "Secret Sharing",
-        "Information Theory"
+        "Blockchain applications in healthcare"
       ]
     }
   ],
