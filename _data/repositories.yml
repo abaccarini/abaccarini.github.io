@@ -1,7 +1,7 @@
 github_users:
   - abaccarini
 
-repo_description_lines_max: 5
+repo_description_lines_max: 6
 
 github_repos:
   - applied-crypto-lab/picco
