@@ -29,7 +29,7 @@ In parallel with this work, I'm the primary maintainer of [PICCO](https://github
 <!-- frequently optimizing existing and developing new protocol implementations. -->
 <!-- The second area of interest is researching private information disclosure from secure function evaluation from an information-theoretic perspective. -->
 
-My second area of interest involves investigating private information disclosure from secure function evaluations. This work pulls from a variety of different disiciplines, including information theory, differential privacy, and quantitative information flow.
-
+My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.
+This work touches several disiciplines, including information theory, differential privacy, and quantitative information flow.
 
 Prior to starting my PhD, I earned my masters in Cybersecurity from Fordham University, where I also obtained my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
