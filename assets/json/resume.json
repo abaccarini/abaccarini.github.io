@@ -14,11 +14,7 @@
       "url": "https://github.com/applied-crypto-lab/picco",
       "startDate": "2020-01-01",
       "summary": "AAA",
-      "highlights": [
-        "Secure Multi-Party Computation",
-        "Secret Sharing",
-        "Information Theory"
-      ]
+      "highlights": ["Secure Multi-Party Computation", "Secret Sharing", "Information Theory"]
     },
     {
       "name": "University at Buffalo",
@@ -27,8 +23,7 @@
       "url": "https://github.com/applied-crypto-lab/picco",
       "startDate": "2020-01-01",
       "summary": ".",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "name": "University at Buffalo",
@@ -37,8 +32,7 @@
       "url": "https://engineering.buffalo.edu/computer-science-engineering.html",
       "startDate": "2020-01-01",
       "summary": ".",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "name": "Fordham University",
@@ -48,9 +42,7 @@
       "startDate": "2017-08-31",
       "endDate": "2019-05-31",
       "summary": ".",
-      "highlights": [
-        "Blockchain applications in healthcare"
-      ]
+      "highlights": ["Blockchain applications in healthcare"]
     }
   ],
   "education": [
@@ -62,9 +54,7 @@
       "studyType": "PhD, Computer Science",
       "startDate": "2019-08-31",
       "endDate": "2024-08-31",
-      "courses": [
-        "Advisor: Marina Blanton"
-      ]
+      "courses": ["Advisor: Marina Blanton"]
     },
     {
       "institution": "Fordham University",
@@ -73,9 +63,7 @@
       "studyType": "MS, Cybersecurity",
       "startDate": "2017-08-31",
       "endDate": "2019-05-31",
-      "courses": [
-        "Advisor: Thaier Hayajneh"
-      ]
+      "courses": ["Advisor: Thaier Hayajneh"]
     },
     {
       "institution": "Fordham University",
@@ -84,9 +72,7 @@
       "studyType": "BS, Physics",
       "startDate": "2013-08-31",
       "endDate": "2017-05-31",
-      "courses": [
-        "Mathematics Minor"
-      ]
+      "courses": ["Mathematics Minor"]
     }
   ],
   "publications": [

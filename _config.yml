@@ -4,15 +4,14 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Alessandro
-middle_name: 
+middle_name:
 last_name: Baccarini
 email: abaccarini@proton.me
-description:  # the ">" symbol means to ignore newlines until "footer_text:"
+description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
-keywords:  # add your own keywords or leave empty
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🪐
-# ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://abaccarini.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -335,7 +334,7 @@ scholar:
   # group_by: year
   group_by: type
   group_order: descending
-  type_order: [article,inproceedings,techreport]
+  type_order: [article, inproceedings, techreport]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
@@ -435,7 +434,7 @@ enable_navbar_social: false # enables displaying social links in the navbar on t
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position (causes all text to shift very slightly on load)
-# enable_about_name: true  # enables displaying your name on the about page, 
+# enable_about_name: true  # enables displaying your name on the about page,
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------

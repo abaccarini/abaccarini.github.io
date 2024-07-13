@@ -12,20 +12,21 @@ profile:
     <p>301C Davis Hall <br />
     Dept. of Computer Science and Engineering <br />
     University at Buffalo, Buffalo, NY 14260 <br />
-    <tt> abaccarini [at] proton [dot] me </tt> <p/> 
+    <tt> abaccarini [at] proton [dot] me </tt> <p/>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, thanks for stopping by! 👋 
+Hi, thanks for stopping by! 👋
 
 I'm a 5th year computer science PhD candidate under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/) at the University at Buffalo. My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
 
 Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing many research domains in order to build highly performant solutions.
 
 In parallel with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure equivalents for deployment in a distributed setting. I'm often working on optimizing existing and writing new protocol implementations.
+
 <!-- frequently optimizing existing and developing new protocol implementations. -->
 <!-- The second area of interest is researching private information disclosure from secure function evaluation from an information-theoretic perspective. -->
 
