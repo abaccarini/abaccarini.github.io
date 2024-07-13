@@ -333,7 +333,7 @@ scholar:
 
   query: "@*"
   group_by: year
-  group_order: ascending
+  group_order: descending
   type_order: [article,inproceedings,techreport]
 
 # Display different badges withs stats for your publications
