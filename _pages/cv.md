@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: vita
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: false
