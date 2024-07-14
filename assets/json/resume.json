@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Alessandro Baccarini",
-    "label": "Cryptographer",
+    "label": "PhD Candidate, Computer Science",
     "image": "",
     "email": "abaccarini@proton.me",
     "url": "https://abaccarini.github.io/"
@@ -9,40 +9,49 @@
   "work": [
     {
       "name": "University at Buffalo",
-      "position": "Doctoral Researcher: PICCO Compiler",
+      "position": "Instructor/Teaching Assistant (Computer Science)",
       "location": "Buffalo, New York",
-      "url": "https://github.com/applied-crypto-lab/picco",
       "startDate": "2020-01-01",
-      "summary": "AAA",
-      "highlights": ["Secure Multi-Party Computation", "Secret Sharing", "Information Theory"]
+      "endDate": "2022-05-31",
+      "highlights": [
+        "CSE 116 Computer Science II (2 semesters, instructor)",
+        "CSE 4/529 Algorithms for Modern Computing Systems (3 semesters)",
+        "CSE 4/531 Analysis of Algorithms (1 semester)", 
+        "CSE 542 Software Engineering Concepts (1 semester)"
+      ]
     },
     {
       "name": "University at Buffalo",
-      "position": "Doctoral Researcher: Secure Multi-Party Computation",
+      "position": "Doctoral Researcher (Computer Science)",
       "location": "Buffalo, New York",
-      "url": "https://github.com/applied-crypto-lab/picco",
       "startDate": "2020-01-01",
-      "summary": ".",
-      "highlights": []
-    },
-    {
-      "name": "University at Buffalo",
-      "position": "Doctoral Researcher: Secure Fuction Information Disclosure",
-      "location": "Buffalo, New York",
-      "url": "https://engineering.buffalo.edu/computer-science-engineering.html",
-      "startDate": "2020-01-01",
-      "summary": ".",
-      "highlights": []
+      "highlights": [
+        "Applied Cryptography",
+        "Secure Multi-Party Computation",
+        "Privacy-Preserving Machine Learning",
+        "Secure Function Information Disclosure Analysis"
+      ]
     },
     {
       "name": "Fordham University",
-      "position": "Graduate Research Assistant",
-      "location": "New York, New York",
-      "url": "https://engineering.buffalo.edu/computer-science-engineering.html",
+      "position": "Adjunct Assistant Professor (Physics)",
+      "location": "Bronx, New York",
       "startDate": "2017-08-31",
       "endDate": "2019-05-31",
-      "summary": ".",
-      "highlights": ["Blockchain applications in healthcare"]
+      "highlights": [
+        "PHYS 1511/12 Physics I/II Lab"
+      ]
+    },
+    {
+      "name": "Fordham University",
+      "position": "Graduate Research Assistant (Cybersecurity)",
+      "location": "New York, New York",
+      "startDate": "2017-08-31",
+      "endDate": "2019-05-31",
+      "highlights": [
+        "Blockchain Applications in Healthcare",
+        "Encryption Algorithms on IoT Devices"
+      ]
     }
   ],
   "education": [
@@ -115,13 +124,37 @@
     {
       "name": "Cryptography",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-lock",
       "keywords": [
         "Secure Multi-Party Computation",
         "Replicated Secret Sharing",
         "Shamir Secret Sharing",
-        "Private Set Intersection",
-        "Information Theory"
+        "Information Theory",
+        "Differential Privacy"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop-code",
+      "keywords": [
+        "C/C++",
+        "Python",
+        "Bash",
+        "Latex",
+        "Lua"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-code-branch",
+      "keywords": [
+        "Neovim",
+        "VS Code",
+        "Git",
+        "SVN",
+        "Git"
       ]
     }
   ]

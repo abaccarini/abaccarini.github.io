@@ -331,10 +331,11 @@ scholar:
   details_link: Details
 
   query: "@*"
-  # group_by: year
-  group_by: type
+  group_by: year
+  # group_by: type
   group_order: descending
-  type_order: [article, inproceedings, techreport]
+  # type_order: [techreport, inproceedings, article]
+  # type_order: [inproceedings, article, techreport]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
