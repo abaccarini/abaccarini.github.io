@@ -16,7 +16,7 @@
       "highlights": [
         "CSE 116 Computer Science II (2 semesters, instructor)",
         "CSE 4/529 Algorithms for Modern Computing Systems (3 semesters)",
-        "CSE 4/531 Analysis of Algorithms (1 semester)", 
+        "CSE 4/531 Analysis of Algorithms (1 semester)",
         "CSE 542 Software Engineering Concepts (1 semester)"
       ]
     },
@@ -38,9 +38,7 @@
       "location": "Bronx, New York",
       "startDate": "2017-08-31",
       "endDate": "2019-05-31",
-      "highlights": [
-        "PHYS 1511/12 Physics I/II Lab"
-      ]
+      "highlights": ["PHYS 1511/12 Physics I/II Lab"]
     },
     {
       "name": "Fordham University",
@@ -48,10 +46,7 @@
       "location": "New York, New York",
       "startDate": "2017-08-31",
       "endDate": "2019-05-31",
-      "highlights": [
-        "Blockchain Applications in Healthcare",
-        "Encryption Algorithms on IoT Devices"
-      ]
+      "highlights": ["Blockchain Applications in Healthcare", "Encryption Algorithms on IoT Devices"]
     }
   ],
   "education": [
@@ -137,25 +132,13 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-laptop-code",
-      "keywords": [
-        "C/C++",
-        "Python",
-        "Bash",
-        "Latex",
-        "Lua"
-      ]
+      "keywords": ["C/C++", "Python", "Bash", "Latex", "Lua"]
     },
     {
       "name": "Developer Tools",
       "level": "Master",
       "icon": "fa-solid fa-code-branch",
-      "keywords": [
-        "Neovim",
-        "VS Code",
-        "Git",
-        "SVN",
-        "Git"
-      ]
+      "keywords": ["Neovim", "VS Code", "Git", "SVN", "Git"]
     }
   ]
 }
