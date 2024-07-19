@@ -138,7 +138,7 @@
       "name": "Developer Tools",
       "level": "Master",
       "icon": "fa-solid fa-code-branch",
-      "keywords": ["Neovim", "VS Code", "Git", "SVN", "Git"]
+      "keywords": ["Neovim", "VS Code", "Git", "SVN"]
     }
   ]
 }
