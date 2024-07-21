@@ -54,7 +54,7 @@
       "institution": "University at Buffalo",
       "location": "Buffalo, New York",
       "url": "https://engineering.buffalo.edu/computer-science-engineering.html",
-      "area": "Multi-Party Computation Techniques and Information Disclosure Evaluation for Data Analytics",
+      "area": "New Directions in Multi-Party Computation: Techniques and Information Disclosure Analysis",
       "studyType": "PhD, Computer Science",
       "startDate": "2019-08-31",
       "endDate": "2024-08-31",
@@ -100,7 +100,7 @@
       "position": "Artifact Evaluator",
       "url": "https://www.usenix.org/conference/usenixsecurity23/call-for-artifacts",
       "startDate": "2022",
-      "summary": "Evaluated artifacts for the 2022-23 and 2023-24 submission cycles."
+      "summary": "2022-23 and 2023-24 submission cycles."
     },
     {
       "organization": "IEEE Transactions on Information Forensics and Security",
