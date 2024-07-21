@@ -25,9 +25,9 @@ hr {
 
 body {
   /* font-family: 'Courier New', Courier, monospace; */
-  /* font-family: 'Inra Sans'; */
-  font-style: normal;
-  /* font-weight: 400; */
+  font-family: "Ubuntu", sans-serif;
+font-style: normal;
+  font-weight: 400;
 }
 
 table {
@@ -46,8 +46,9 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    /* color: var(--global-theme-color); */
+    color: var(--global-hover-color);
+    /* text-decoration: underline; */
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -244,7 +245,7 @@ ul.task-list input[type="checkbox"] {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
-  opacity: 0.95;
+  /* opacity: 0.95; */
 }
 
 .navbar .dropdown-menu {
@@ -282,11 +283,13 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+    font-weight: bolder;
   }
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
 
+    font-weight: bolder;
     &:hover {
       color: var(--global-hover-color);
     }
@@ -298,7 +301,7 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-theme-color);
 
     &:hover {
-      color: var(--global-hover-color);
+      color: var(--global-theme-color);
     }
   }
 
@@ -380,19 +383,24 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 3rem;
+    font-size: 2.8rem;
 
     a {
-      i::before {
+      /* i::before { */
         color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
+      /*   transition-property: all 0.2s ease; */
+      /* } */
+  &:hover {
+    /* color: var(--global-theme-color); */
+    color: var(--global-hover-color);
+    /* text-decoration: underline; */
+  }
 
-      &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
-      }
+      /* &:hover { */
+      /*   i::before { */
+      /*     color: var(--global-hover-color); */
+      /*   } */
+      /* } */
     }
   }
 
@@ -588,7 +596,7 @@ footer.sticky-bottom {
       color: var(--global-text-color);
 
       &:hover {
-        color: $black-color;
+    color: var(--global-hover-color);
       }
     }
 
