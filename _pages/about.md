@@ -27,9 +27,6 @@ Concretely, I design protocols for secure multi-party computation based on secre
 
 In parallel with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure equivalents for deployment in a distributed setting. I'm often working on optimizing existing and writing new protocol implementations.
 
-<!-- frequently optimizing existing and developing new protocol implementations. -->
-<!-- The second area of interest is researching private information disclosure from secure function evaluation from an information-theoretic perspective. -->
-
 My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.
 This work touches several disiciplines, including information theory, differential privacy, and quantitative information flow.
 
