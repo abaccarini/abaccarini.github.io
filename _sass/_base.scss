@@ -3,6 +3,10 @@
  ******************************************************************************/
 
 // Typography
+// prevents the main text from getting shifted over when switching betweem pages
+html {
+  overflow-y: scroll;
+}
 
 p,
 h1,
@@ -25,8 +29,9 @@ hr {
 
 body {
   /* font-family: 'Courier New', Courier, monospace; */
-  font-family: "Ubuntu", sans-serif;
-font-style: normal;
+  /* font-family: "Ubuntu", sans-serif; */
+  font-family: "Ubuntu";
+  font-style: normal;
   font-weight: 400;
 }
 
