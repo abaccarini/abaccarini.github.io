@@ -3,7 +3,6 @@
  ******************************************************************************/
 
 // Typography
-// prevents the main text from getting shifted over when switching betweem pages
 html {
   overflow-y: scroll;
 }
@@ -29,8 +28,7 @@ hr {
 
 body {
   /* font-family: 'Courier New', Courier, monospace; */
-  /* font-family: "Ubuntu", sans-serif; */
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", sans-serif;
   font-style: normal;
   font-weight: 400;
 }
@@ -387,21 +385,21 @@ ul.task-list input[type="checkbox"] {
 .social {
   text-align: center;
 
-    margin-bottom: 25px;
-/* margin-bottom: 2rem; */
+  margin-bottom: 25px;
+  /* margin-bottom: 2rem; */
   .contact-icons {
     font-size: 2.8rem;
 
     a {
       /* i::before { */
-        color: var(--global-text-color);
+      color: var(--global-text-color);
       /*   transition-property: all 0.2s ease; */
       /* } */
-  &:hover {
-    /* color: var(--global-theme-color); */
-    color: var(--global-hover-color);
-    /* text-decoration: underline; */
-  }
+      &:hover {
+        /* color: var(--global-theme-color); */
+        color: var(--global-hover-color);
+        /* text-decoration: underline; */
+      }
 
       /* &:hover { */
       /*   i::before { */
@@ -603,7 +601,7 @@ footer.sticky-bottom {
       color: var(--global-text-color);
 
       &:hover {
-    color: var(--global-hover-color);
+        color: var(--global-hover-color);
       }
     }
 
