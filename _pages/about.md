@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://engineering.buffalo.edu/computer-science-engineering.html'><b>Cryptographer</b></a> 
+subtitle: <a href='https://abaccarini.github.io/'><b>Cryptographer</b></a> 
+# subtitle: <b>Cryptographer</b>
 
 profile:
   align: right
@@ -23,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, thanks for stopping by! 👋
 
-I'm a (very) recently graduated computer science PhD from the University at Buffalo under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/). My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
+I'm a (very) recently computer science PhD graduate from the University at Buffalo under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/). My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
 
 Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing many research domains in order to build highly performant solutions.
 

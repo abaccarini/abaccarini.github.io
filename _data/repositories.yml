@@ -5,7 +5,7 @@ repo_description_lines_max: 6
 
 github_repos:
   - applied-crypto-lab/picco
-  - abaccarini/RSS_ring_ppml
+  - applied-crypto-lab/RSS_ring_ppml
   - abaccarini/estimators
   - abaccarini/dotfiles
   - abaccarini/apple-psi-python
