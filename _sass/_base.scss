@@ -44,6 +44,17 @@ table {
   }
 }
 
+/* table.table-sm { */
+/*   th, */
+/*   td { */
+/*     padding: 0; */
+/*   } */
+/* } */
+table.no-spacing {
+  border-spacing:0; /* Removes the cell spacing via CSS */
+  border-collapse: collapse;  /* Optional - if you don't want to have double border where cells touch */
+}
+
 a,
 table.table a {
   color: var(--global-theme-color);
