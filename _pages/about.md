@@ -23,7 +23,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi, thanks for stopping by! 👋
 
-I'm a 5th year computer science PhD candidate at the University at Buffalo under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/). My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
+I'm a (very) recently graduated computer science PhD from the University at Buffalo under the supervision of [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/). My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
 
 Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing many research domains in order to build highly performant solutions.
 
@@ -32,4 +32,4 @@ In parallel with this work, I'm the primary maintainer of [PICCO](https://github
 My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.
 This work touches several disiciplines, including information theory, differential privacy, and quantitative information flow.
 
-Prior to starting my PhD, I earned my masters in Cybersecurity from Fordham University, where I also obtained my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
+Prior to earning my PhD, I obtained my masters in Cybersecurity from Fordham University, where I also received my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
