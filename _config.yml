@@ -331,7 +331,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
+  # group_by: year
   group_by: type
   # group_order: descending
   # type_order: [techreport, inproceedings, article]
