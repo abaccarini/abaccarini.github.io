@@ -196,7 +196,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -332,10 +332,10 @@ scholar:
 
   query: "@*"
   group_by: year
-  # group_by: type
-  group_order: descending
+  group_by: type
+  # group_order: descending
   # type_order: [techreport, inproceedings, article]
-  # type_order: [inproceedings, article, techreport]
+  type_order: [thesis, inproceedings, article, techreport]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
