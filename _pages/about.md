@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/'><b>Cryptographer</b></a> 
+subtitle: <a href='/'><b>Cryptographer</b></a>
 # subtitle: <b>Cryptographer</b>
 
 profile:
@@ -30,8 +30,10 @@ This work touches several disiciplines, including information theory, differenti
 
 Prior to my PhD, I obtained my masters in Cybersecurity from Fordham University, where I also received my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
 
-My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections: 
+My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections:
+
 <!-- - P. Erdős and D. F. Hsu. Distributed loop networks with minimum transmission delay. *Theoretical Computer Science*, 100(1):223-241, 1992. -->
 <!-- - Y. Tian, G. Weiss, D. F. Hsu, and Q. Ma. A combinatorial fusion method for feature construction. In *International Conference on Data Mining (IDCM)*, pages 260-266, 2009. -->
 <!-- - A. Alhayajneh, A. Baccarini, G. Weiss, T. Hayajneh, A. Farajidavar. Biometric Authentication and Verification for Medical Cyber Physical Systems. *Electronics*, 7(12):436, 2018. -->
+
 [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) &rarr; [Frank Hsu](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/frank-hsu/) &rarr; [Gary Weiss](https://storm.cis.fordham.edu/~gweiss/) &rarr; **[Alessandro Baccarini](/)**.
