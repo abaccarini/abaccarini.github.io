@@ -20,18 +20,22 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+
+  font-family: "Ubuntu", sans-serif;
+  font-style: normal;
+  font-weight: 400;
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
-body {
-  /* font-family: 'Courier New', Courier, monospace; */
-  font-family: "Ubuntu", sans-serif;
-  font-style: normal;
-  font-weight: 400;
-}
+/* body { */
+/*   /* font-family: 'Courier New', Courier, monospace; */ */
+/*   font-family: "Ubuntu", sans-serif; */
+/*   font-style: normal; */
+/*   font-weight: 400; */
+/* } */
 
 table {
   td,
