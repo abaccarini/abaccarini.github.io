@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='/'><b>Cryptographer</b></a>
-# subtitle: <b>Cryptographer</b>
 
 profile:
   align: right
