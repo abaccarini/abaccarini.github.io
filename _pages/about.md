@@ -11,11 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> <tt> abaccarini [at] proton [dot] me </tt> <p/>
-  # more_info: >
-  #   <p>301C Davis Hall <br />
-  #   Dept. of Computer Science and Engineering <br />
-  #   University at Buffalo, Buffalo, NY 14260 <br />
-  #   <tt> abaccarini [at] proton [dot] me </tt> <p/>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
