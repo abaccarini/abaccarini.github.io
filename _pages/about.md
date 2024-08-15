@@ -25,7 +25,7 @@ Concretely, I design protocols for secure multi-party computation based on secre
 In parallel with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure equivalents for deployment in a distributed setting. I'm often working on optimizing existing and writing new protocol implementations.
 
 My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.
-This work touches several disiciplines, including information theory, differential privacy, and quantitative information flow.
+This work touches several disciplines, including information theory, differential privacy, and quantitative information flow.
 
 Prior to my PhD, I obtained my masters in Cybersecurity from Fordham University, where I also received my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
 

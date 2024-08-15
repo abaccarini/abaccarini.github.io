@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: I successfully defended my dissertation! :tada:
+I successfully defended my dissertation! :tada:
