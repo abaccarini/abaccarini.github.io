@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='/'><b>Cryptographer</b></a>
+subtitle: <a href='/'><b>PhD, Cryptography</b></a>
 
 profile:
   align: right
@@ -20,12 +20,11 @@ Hi, thanks for stopping by! 👋
 
 I (very) recently earned my PhD in computer science from the University at Buffalo, where I was advised by [Dr. Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/). My interests span across areas of information security, applied cryptography, and privacy enhancing technologies.
 
-Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. This requires synthesizing many research domains in order to build highly performant solutions.
+Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. 
+<!-- This requires synthesizing many research domains in order to build highly performant solutions. -->
+In tandem with this work, I maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure equivalents for deployment in a distributed setting. I'm often optimizing existing, writing new protocol implementations, and improving overall usability.
 
-In parallel with this work, I'm the primary maintainer of [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general purpose programs into their secure equivalents for deployment in a distributed setting. I'm often working on optimizing existing and writing new protocol implementations.
-
-My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.
-This work touches several disciplines, including information theory, differential privacy, and quantitative information flow.
+My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations. This work touches several disciplines, including information theory, differential privacy, and quantitative information flow.
 
 Prior to my PhD, I obtained my masters in Cybersecurity from Fordham University, where I also received my bachelors in Physics. When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)!
 
