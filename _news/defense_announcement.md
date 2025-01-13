@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I successfully defended my dissertation! :tada:
+I successfully defended my dissertation! :tada: Presentation slides available [here](/assets/pdf/defense_slides.pdf).

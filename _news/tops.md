@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-The full version of our CODASPY '24 paper "Understanding Information Disclosure from Secure Computation Output: A Comprehensive Study of Average Salary Computation" was published in ACM Transactions on Privacy and Security (TOPS). [Available here](https://dl.acm.org/doi/abs/10.1145/3705004)!
+The full version of our CODASPY '24 paper "Understanding Information Disclosure from Secure Computation Output: A Comprehensive Study of Average Salary Computation" was published in ACM Transactions on Privacy and Security (TOPS). Available [here](https://dl.acm.org/doi/abs/10.1145/3705004).
