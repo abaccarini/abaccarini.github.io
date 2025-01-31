@@ -23,7 +23,7 @@ I am a security researcher with interests spanning across areas of information s
 
 Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing. 
 <!-- This requires synthesizing many research domains in order to build highly performant solutions. -->
-I also maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general-purpose programs into their secure equivalents for distributed deployment. I'm often optimizing existing, writing new protocol implementations, and improving overall usability.
+I also maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general-purpose programs into their secure equivalents for distributed deployment. I'm often  writing new protocol implementations, optimizing existing protocols, and improving overall usability.
 
 My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations. This work touches several disciplines, including information theory, differential privacy, and quantitative information flow.
 
