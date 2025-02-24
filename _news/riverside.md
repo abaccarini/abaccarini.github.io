@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I was invited to present my research at Riverside Research in Lexington, MA. Slides available [here](/assets/pdf/rr_slides.pdf).
+I was invited to present my research at [Riverside Research](https://www.riversideresearch.org/) in Lexington, MA. Slides available [here](/assets/pdf/rr_slides.pdf).
