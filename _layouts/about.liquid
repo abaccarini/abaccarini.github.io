@@ -38,12 +38,16 @@ layout: default
       <div class="social">
         <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">Last updated: {{ 'now' | date: '%B %d, %Y' }}</div>
+        <div class="contact-note">Last updated: {{ 'now' | date: '%B %Y' }}</div>
         <!-- <div class="contact-note">{{ site.contact_note }}</div> -->
       </div>
         {% endif %}
       </div>
     {% endif %}
+
+    <p class="h5">{{ page.announcement }}</p>
+
+    <hr width="24%" align="left">
 
     <div class="clearfix">{{ content }}</div>
 

@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='/'><b>PhD, Computer Science</b></a>
+announcement: <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat! </b>
 
 profile:
   align: right
@@ -20,13 +21,15 @@ Hi, thanks for stopping by! 👋
 
 I am a security researcher with interests spanning across areas of information security, applied cryptography, and privacy enhancing technologies.
 
-Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing.
 
-<!-- This requires synthesizing many research domains in order to build highly performant solutions. -->
+My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies. I design and implement protocols for secure multi-party computation (MPC) based on secret sharing for a variety of practical applications, such as privacy-preserving machine learning, sustainability, and outsourcing. Additionally, I research how to quantify information disclosure from arbitrary secure function evaluations through information-theoretic approaches. 
+I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler for translating general-purpose programs into their secure equivalents for distributed deployment. 
 
-I also maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source compiler that translates general-purpose programs into their secure equivalents for distributed deployment. I'm often writing new protocol implementations, optimizing existing protocols, and improving overall usability.
-
-My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations. This work touches several disciplines, including information theory, differential privacy, and quantitative information flow.
+<!-- Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing.  -->
+<!-- I'm often writing new protocol implementations, optimizing existing protocols, and improving overall usability. -->
+<!-- Additionally, I research how to quantify information disclosure from arbitrary secure function evaluations through information-theoretic approaches. -->
+<!-- My second area of interest involves quantifying (and subsequently, lowering) information disclosure from secure function evaluations.  -->
+<!-- This work touches several disciplines, including information theory, differential privacy, and quantitative information flow. -->
 
 I earned my PhD in computer science from the University at Buffalo, where I was advised by [Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/).
 I previously obtained my masters in Cybersecurity and bachelors in Physics from Fordham University.
