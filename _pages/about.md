@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='/'><b>PhD, Computer Science</b></a>
-announcement: <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat! </b>
+announcement: <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeast US/remote. Please email me if you’d like to chat!</b>
 
 profile:
   align: right
@@ -21,9 +21,8 @@ Hi, thanks for stopping by! 👋
 
 I am a security researcher with interests spanning across areas of information security, applied cryptography, and privacy enhancing technologies.
 
-
-My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies. I design and implement protocols for secure multi-party computation (MPC) based on secret sharing for a variety of practical applications, such as privacy-preserving machine learning, sustainability, and outsourcing. Additionally, I research how to quantify information disclosure from arbitrary secure function evaluations through information-theoretic approaches. 
-I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler for translating general-purpose programs into their secure equivalents for distributed deployment. 
+My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies. I design and implement protocols for secure multi-party computation (MPC) based on secret sharing for a variety of practical applications, such as privacy-preserving machine learning, sustainability, and outsourcing. Additionally, I research how to quantify information disclosure from arbitrary secure function evaluations through information-theoretic approaches.
+I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler for translating general-purpose programs into their secure equivalents for distributed deployment.
 
 <!-- Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing.  -->
 <!-- I'm often writing new protocol implementations, optimizing existing protocols, and improving overall usability. -->
