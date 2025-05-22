@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> <tt> abaccarini [at] proton [dot] me </tt> <p/>
+    <p><tt>abaccarini[at]proton[dot]me</tt><p/>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,8 +21,19 @@ Hi, thanks for stopping by! 👋
 
 I am a security researcher with interests spanning across areas of information security, applied cryptography, and privacy enhancing technologies.
 
-My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies. I design and implement protocols for secure multi-party computation (MPC) based on secret sharing for a variety of practical applications, such as privacy-preserving machine learning, sustainability, and outsourcing. Additionally, I research how to quantify information disclosure from arbitrary secure function evaluations through information-theoretic approaches.
-I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler for translating general-purpose programs into their secure equivalents for distributed deployment.
+<!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
+
+Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches.
+
+<!-- with application to -->
+<!-- privacy-preserving machine learning, sustainability, and outsourcing. -->
+<!-- based on secret sharing for a variety of practical applications, such as  -->
+<!-- Additionally, I research how to  -->
+<!-- arbitrary secure function evaluations  -->
+
+I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
+
+<!-- for translating general-purpose programs into their secure equivalents for distributed deployment. -->
 
 <!-- Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing.  -->
 <!-- I'm often writing new protocol implementations, optimizing existing protocols, and improving overall usability. -->
@@ -31,7 +42,8 @@ I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an ope
 <!-- This work touches several disciplines, including information theory, differential privacy, and quantitative information flow. -->
 
 I earned my PhD in computer science from the University at Buffalo, where I was advised by [Marina Blanton](https://www.acsu.buffalo.edu/~mblanton/).
-I previously obtained my masters in Cybersecurity and bachelors in Physics from Fordham University.
+
+<!-- I previously obtained my masters in Cybersecurity and bachelors in Physics from Fordham University. -->
 
 <!-- When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! -->
 

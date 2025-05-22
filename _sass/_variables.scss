@@ -22,10 +22,18 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+$dracula-vdark: #0e0d11 !default;
+$dracula-vdark-lightened: lighten($dracula-vdark, 2%);
+$dracula-vdark-gray: #1d1b22 !default;
+$dracula-vdark-light-gray: #46484d !default;
 $dracula-fg: #f8f8f2 !default;
-$dracula-bg: #282a36 !default;
+/* $dracula-bg: #282a36 !default; */
+$dracula-bg: #0e0d11 !default;
 $dracula-current-line: #44475a !default;
-$dracula-comment: #6272a4 !default;
+/* $dracula-comment: #6272a4 !default; */
+/* $dracula-comment: #1D1B22 !default; */
+/* $dracula-comment: $dracula-vdark-light-gray; */
+$dracula-comment: $dracula-vdark-light-gray;
 $dracula-cyan: #8be9fd !default;
 $dracula-green: #50fa7b !default;
 $dracula-orange: #ffb86c !default;
