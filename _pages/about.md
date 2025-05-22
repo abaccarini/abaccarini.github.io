@@ -24,6 +24,7 @@ I am a security researcher with interests spanning across areas of information s
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
 Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches.
+I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
 
 <!-- with application to -->
 <!-- privacy-preserving machine learning, sustainability, and outsourcing. -->
@@ -31,7 +32,6 @@ Examples of my work include designing and implementing protocols for secure mult
 <!-- Additionally, I research how to  -->
 <!-- arbitrary secure function evaluations  -->
 
-I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
 
 <!-- for translating general-purpose programs into their secure equivalents for distributed deployment. -->
 
