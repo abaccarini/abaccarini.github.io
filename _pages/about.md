@@ -32,7 +32,6 @@ I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an ope
 <!-- Additionally, I research how to  -->
 <!-- arbitrary secure function evaluations  -->
 
-
 <!-- for translating general-purpose programs into their secure equivalents for distributed deployment. -->
 
 <!-- Concretely, I design protocols for secure multi-party computation based on secret sharing for a variety of applications, such as privacy-preserving machine learning, sustainability, and outsourcing.  -->
