@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='/'><b>PhD, Computer Science</b></a>
 announcement: <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
