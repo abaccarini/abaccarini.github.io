@@ -14,7 +14,7 @@ I provide expert consulting services focused on the design, analysis, and auditi
 ### 🛠️ **Core Services** 
 
 > #### **Cryptographic Protocol Review & Auditing** 📝
-> I offer both formal and informal audits of cryptographic protocols, covering threshold cryptography, secure multi-party computation (MPC), fully homomorphic encryption (FHE), differential Privacy, zero-knowledge (ZK) systems. My process includes validating design correctness, scrutinizing security proofs, and analyzing cryptographic assumptions. I also conduct adversarial threat modeling and assess leakage in complex environments.
+> I offer both formal and informal audits of cryptographic protocols, covering threshold cryptography, secure multi-party computation (MPC), fully homomorphic encryption (FHE), differential privacy, zero-knowledge (ZK) systems. My process includes validating design correctness, scrutinizing security proofs, and analyzing cryptographic assumptions. I also conduct adversarial threat modeling and assess leakage in complex environments.
 
 > #### **Secure Software Code Audits** 🔎
 > I perform detailed code reviews for cryptographic implementations written in C++, Rust, Python, Solidity, and domain-specific libraries. These audits include analysis of side-channel vulnerabilities, potential information leakage, and comprehensive static and dynamic testing tailored specifically to cryptographic software.
