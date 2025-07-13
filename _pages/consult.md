@@ -28,17 +28,20 @@ I provide expert consulting services focused on the design, analysis, and auditi
 
 ### 📈 **Why Work With Me?** 
 
-🔬 Deep Cryptography Expertise: Nearly a decade of experience working on secure computation, threshold crypto, and applied cryptography.
+🔬 **Deep Cryptography Expertise:** Nearly a decade of experience working on secure computation, threshold crypto, and applied cryptography.
 
-🚀 Research-to-Product Mindset: Bridging cutting-edge theory with robust, efficient engineering.
+🚀 **Research-to-Product Mindset:** Bridging cutting-edge theory with robust, efficient engineering.
 <!-- - 🧠 Performance-Driven: Delivered up to 33× performance improvements on MPC protocols, 4× faster FHE threshold decryption, and novel optimizations in secure ML. -->
 
-🛡️ Security First: Always with a focus on real-world threat models, adversarial robustness, and leak-resistance.
+🛡️ **Security First:** Always with a focus on real-world threat models, adversarial robustness, and leak-resistance.
 
 
 ### 📬 **Get in Touch**
 
 Let’s talk about how I can support your team. Whether you’re building a privacy-preserving product, writing a whitepaper, or seeking assurance in your cryptographic stack, I’m here to help!
+
+
+<p><tt>abaccarini[at]proton[dot]me</tt><p/>
 
 <!-- I offer deep technical audits of software systems that rely on cryptographic protocols, privacy-preserving computation, and secure infrastructure. Whether you're building with secure multi-party computation (MPC), homomorphic encryption, threshold schemes, or blockchain-integrated tooling, I’ll provide a comprehensive review that goes beyond surface-level vulnerabilities. -->
 
