@@ -19,7 +19,7 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I am a security researcher with interests spanning across areas of information security, applied cryptography, and privacy enhancing technologies.
+I am a security researcher and consultant specializing in information security, applied cryptography, and privacy enhancing technologies.
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
