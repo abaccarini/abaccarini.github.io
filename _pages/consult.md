@@ -33,7 +33,7 @@ I provide expert consulting services focused on the design, analysis, and auditi
 🚀 **Research-to-Product Mindset:** Bridging cutting-edge theory with robust, efficient engineering.
 <!-- - 🧠 Performance-Driven: Delivered up to 33× performance improvements on MPC protocols, 4× faster FHE threshold decryption, and novel optimizations in secure ML. -->
 
-🛡️ **Security First:** Always with a focus on real-world threat models, adversarial robustness, and leak-resistance.
+🔐 **Security First:** Always with a focus on real-world threat models, adversarial robustness, and leak-resistance.
 
 
 ### 📬 **Get in Touch**
