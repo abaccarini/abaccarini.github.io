@@ -28,7 +28,7 @@ I provide expert consulting services focused on the design, analysis, and auditi
 
 ### 📈 **Why Work With Me?** 
 
-🔬 **Deep Cryptography Expertise:** Nearly a decade of experience working on secure computation, threshold crypto, and applied cryptography.
+📚 **Deep Cryptography Expertise:** Nearly a decade of experience working on secure computation, threshold crypto, and applied cryptography.
 
 🚀 **Research-to-Product Mindset:** Bridging cutting-edge theory with robust, efficient engineering.
 <!-- - 🧠 Performance-Driven: Delivered up to 33× performance improvements on MPC protocols, 4× faster FHE threshold decryption, and novel optimizations in secure ML. -->
