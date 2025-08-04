@@ -69,13 +69,14 @@
 
 html[data-theme="dark"] {
   --global-bg-color: #{$dracula-bg};
+  --global-bg-color-opaque: #{$dracula-bg-opaque};
   --global-code-bg-color: #{$dracula-current-line};
   --global-text-color: #{$dracula-fg};
   --global-text-color-light: #{$dracula-fg};
   --global-theme-color: #{$dracula-purple};
   --global-hover-color: #{$dracula-green};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #{$dracula-vdark-lightened};
+  --global-footer-bg-color: #{$dracula-bg};
   --global-footer-text-color: #{$dracula-fg};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$dracula-fg};
