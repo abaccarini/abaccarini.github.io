@@ -3,6 +3,23 @@
 // Toggle through light, dark, and system theme settings.
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
+  let drac_colors = [
+    "#6272A4",
+    "#8BE9FD",
+    "#50FA7B",
+    "#FFB86C",
+    "#FF79C6",
+    "#BD93F9",
+    "#FF5555",
+    "#F1FA8C",
+    "#F8F8F2",
+    "#F8F8F2",
+    "#F8F8F2",
+    "#F8F8F2",
+    "#F8F8F2",
+    "#F8F8F2",
+    "#F8F8F2",
+  ];
   if (themeSetting == "system") {
     pJSDom[0].pJS.particles.color.value = "#000000";
     pJSDom[0].pJS.particles.line_linked.color = "#000000";
@@ -10,14 +27,14 @@ let toggleThemeSetting = () => {
     setThemeSetting("light");
   } else if (themeSetting == "light") {
     setThemeSetting("dark");
-    pJSDom[0].pJS.particles.color.value = ["#6272A4", "#8BE9FD", "#50FA7B", "#FFB86C", "#FF79C6", "#BD93F9", "#FF5555", "#F1FA8C"];
+    pJSDom[0].pJS.particles.color.value = drac_colors;
     pJSDom[0].pJS.particles.line_linked.color = "#ffffff";
     pJSDom[0].pJS.fn.particlesRefresh();
   } else {
     setThemeSetting("system");
     const systemTheme = determineComputedTheme();
     if (systemTheme == "dark") {
-      pJSDom[0].pJS.particles.color.value = ["#6272A4", "#8BE9FD", "#50FA7B", "#FFB86C", "#FF79C6", "#BD93F9", "#FF5555", "#F1FA8C"];
+      pJSDom[0].pJS.particles.color.value = drac_colors;
       pJSDom[0].pJS.particles.line_linked.color = "#ffffff";
     } else {
       pJSDom[0].pJS.particles.color.value = "#000000";

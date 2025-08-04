@@ -15,8 +15,25 @@ document.addEventListener("DOMContentLoaded", function () {
     const theme = getSystemTheme();
     const particles = pJSDom[0].pJS.particles;
 
+    let drac_colors = [
+      "#6272A4",
+      "#8BE9FD",
+      "#50FA7B",
+      "#FFB86C",
+      "#FF79C6",
+      "#BD93F9",
+      "#FF5555",
+      "#F1FA8C",
+      "#F8F8F2",
+      "#F8F8F2",
+      "#F8F8F2",
+      "#F8F8F2",
+      "#F8F8F2",
+      "#F8F8F2",
+      "#F8F8F2",
+    ];
     if (theme === "dark") {
-      particles.color.value = ["#6272A4", "#8BE9FD", "#50FA7B", "#FFB86C", "#FF79C6", "#BD93F9", "#FF5555", "#F1FA8C"];
+      particles.color.value = drac_colors;
       particles.line_linked.color = "#ffffff";
     } else {
       particles.color.value = "#000000";
