@@ -24,20 +24,20 @@ document.addEventListener("DOMContentLoaded", function () {
       "#BD93F9",
       "#FF5555",
       "#F1FA8C",
-      "#F8F8F2",
-      "#F8F8F2",
-      "#F8F8F2",
-      "#F8F8F2",
-      "#F8F8F2",
-      "#F8F8F2",
-      "#F8F8F2",
+      "#a3a39d",
+      "#a3a39d",
+      "#a3a39d",
+      "#a3a39d",
+      "#a3a39d",
+      "#a3a39d",
+      "#a3a39d",
     ];
     if (theme === "dark") {
       particles.color.value = drac_colors;
       particles.line_linked.color = "#ffffff";
     } else {
-      particles.color.value = "#000000";
-      particles.line_linked.color = "#000000";
+      particles.color.value = "#c2c2c2";
+      particles.line_linked.color = "#c2c2c2";
     }
 
     // Refresh particles.js settings

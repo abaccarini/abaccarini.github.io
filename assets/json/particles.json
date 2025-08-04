@@ -1,14 +1,14 @@
 {
   "particles": {
     "number": {
-      "value": 150,
+      "value": 100,
       "density": {
         "enable": true,
         "value_area": 800
       }
     },
     "color": {
-      "value": ["#6272A4", "#8BE9FD", "#50FA7B", "#FFB86C", "#FF79C6", "#BD93F9", "#FF5555", "#F1FA8C", "#F8F8F2", "#F8F8F2", "#F8F8F2", "#F8F8F2", "#F8F8F2", "#F8F8F2", "#F8F8F2"]
+      "value": ["#6272A4", "#8BE9FD", "#50FA7B", "#FFB86C", "#FF79C6", "#BD93F9", "#FF5555", "#F1FA8C", "#a3a39d", "#a3a39d", "#a3a39d", "#a3a39d", "#a3a39d", "#a3a39d", "#a3a39d"]
     },
     "shape": {
       "type": "circle",
@@ -26,7 +26,7 @@
       }
     },
     "opacity": {
-      "value": 1,
+      "value": 1.0,
       "random": false,
       "anim": {
         "enable": false,
@@ -49,14 +49,14 @@
       "enable": true,
       "distance": 75,
       "color": "#ffffff",
-      "opacity": 0.5,
+      "opacity": 0.3,
       "width": 0
     },
     "move": {
       "enable": true,
-      "speed": 0.5,
+      "speed": 0.2,
       "direction": "none",
-      "random": true,
+      "random": false,
       "straight": false,
       "out_mode": "out",
       "bounce": true,
