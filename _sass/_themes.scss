@@ -69,7 +69,6 @@
 
 html[data-theme="dark"] {
   --global-bg-color: #{$dracula-bg};
-  --global-bg-color-opaque: #{$dracula-bg-opaque};
   --global-code-bg-color: #{$dracula-current-line};
   --global-text-color: #{$dracula-fg};
   --global-text-color-light: #{$dracula-fg};

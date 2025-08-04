@@ -18,20 +18,31 @@ body {
 }
 
 @-webkit-keyframes fadein {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 @-moz-keyframes fadein {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 @keyframes fadein {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
-
 
 #particles-js {
   width: 100%;
@@ -47,7 +58,6 @@ body {
   z-index: -10;
   animation: fadein 2s ease-in;
 }
-
 
 body.fixed-top-nav {
   // Add some padding for the nav-bar.
