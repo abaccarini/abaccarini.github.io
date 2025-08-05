@@ -264,9 +264,23 @@ ul.task-list input[type="checkbox"] {
 
 .navbar {
   box-shadow: none;
-  border-bottom: 1px solid var(--global-divider-color);
+  /* border-bottom: 1px solid var(--global-divider-color); */
+  /* background-color: var(--global-bg-color); */
+  /* opacity: 0.9; */
+  transition: 0.3s ease-out;
+}
+
+header.nav-fixed {
+  /* width: 100%; */
+  /* position: fixed; */
+  transition: 0.1s;
+}
+
+.nav-active {
   background-color: var(--global-bg-color);
-  opacity: 0.9;
+  transition: 0.3s ease-out;
+  /* background-color:#fff; */
+  /* box-shadow: 5px -1px 12px -5px grey; */
 }
 
 .navbar .dropdown-menu {

@@ -1,6 +1,6 @@
 <header>
   <!-- Nav Bar -->
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
+  <nav id="navbar" class="navbar nav-fixed navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if page.permalink != '/' %}
         <a class="navbar-brand title" href="{{ site.baseurl }}/">
@@ -139,3 +139,14 @@
     </progress>
   {% endif %}
 </header>
+<script>
+const navbar = document.querySelector('.nav-fixed');
+window.onscroll = () => {
+    if (window.scrollY > 1) {
+        navbar.classList.add('nav-active');
+    } else {
+        navbar.classList.remove('nav-active');
+    }
+};
+</script>
+
