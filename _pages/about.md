@@ -46,5 +46,6 @@ I earned my PhD in computer science from the University at Buffalo, where I was 
 
 <!-- When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! -->
 
-My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections: 
+My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections:
+
 - [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) &rarr; [Frank Hsu](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/frank-hsu/) &rarr; [Gary Weiss](https://storm.cis.fordham.edu/~gweiss/) &rarr; **[Alessandro Baccarini](/)**.
