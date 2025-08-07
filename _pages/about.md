@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
+subtitle: <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>, Principal Consultant
 announcement:
   # - <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
 
