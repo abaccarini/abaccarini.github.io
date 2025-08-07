@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>, Principal Consultant
+subtitle: Principal Consultant, <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
 announcement:
   # - <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
 
@@ -20,7 +20,7 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I am a [security researcher](/publications) and principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/), specializing in information security, applied cryptography, and privacy enhancing technologies.
+I am the principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies.
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
@@ -46,4 +46,5 @@ I earned my PhD in computer science from the University at Buffalo, where I was 
 
 <!-- When I'm not doing science, I'm probably spending way too much time tweaking my Neovim config -- check out my [dotfiles here](https://github.com/abaccarini/dotfiles)! -->
 
-My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections: [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) &rarr; [Frank Hsu](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/frank-hsu/) &rarr; [Gary Weiss](https://storm.cis.fordham.edu/~gweiss/) &rarr; **[Alessandro Baccarini](/)**.
+My [Erdős number](https://sites.google.com/oakland.edu/grossman/home/the-erdoes-number-project) is 3 through the following connections: 
+- [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) &rarr; [Frank Hsu](https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/frank-hsu/) &rarr; [Gary Weiss](https://storm.cis.fordham.edu/~gweiss/) &rarr; **[Alessandro Baccarini](/)**.
