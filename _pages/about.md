@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='/'><b>PhD, Computer Science</b></a>
+subtitle: <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
 announcement:
   # - <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p><tt>abaccarini[at]proton[dot]me</tt><p/>
 
@@ -20,12 +20,11 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I am a [security researcher](/publications) and [consultant](/consulting) specializing in information security, applied cryptography, and privacy enhancing technologies.
+I am a [security researcher](/publications) and principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/), specializing in information security, applied cryptography, and privacy enhancing technologies.
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
-Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches.
-I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
+Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches. I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
 
 <!-- with application to -->
 <!-- privacy-preserving machine learning, sustainability, and outsourcing. -->
