@@ -20,7 +20,7 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I am the principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies.
+I'm a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies.
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
