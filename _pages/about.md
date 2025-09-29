@@ -2,7 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Principal Consultant, <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
+# subtitle: Principal Consultant, <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
+subtitle: Cryptography Engineer, <a href='https://iohk.io/'><b>Input | Output (IOG)</b></a>
 announcement:
   # - <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
 
@@ -20,11 +21,15 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I'm a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies.
+I'm a Cryptography Engineer at [Input \| Output (IOG)](https://iohk.io/) specializing in information security, applied cryptography, and privacy enhancing technologies.
+<!-- and a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/). -->
+
+<!-- I'm a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies. -->
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
-Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches. I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library.
+Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches. 
+<!-- I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library. -->
 
 <!-- with application to -->
 <!-- privacy-preserving machine learning, sustainability, and outsourcing. -->
