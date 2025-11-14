@@ -22,13 +22,15 @@ social: true
 Hi, thanks for stopping by! 👋
 
 I'm a Cryptography Engineer at [Input \| Output (IOG)](https://iohk.io/) specializing in information security, applied cryptography, and privacy enhancing technologies.
+
 <!-- and a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/). -->
 
 <!-- I'm a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/) and a [security researcher](/publications) specializing in information security, applied cryptography, and privacy enhancing technologies. -->
 
 <!-- My interests span across areas of information security, applied cryptography, and privacy-enhancing technologies.  -->
 
-Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches. 
+Examples of my work include designing and implementing protocols for secure multi-party computation (MPC), and quantifying information disclosure from secure computation through information-theoretic approaches.
+
 <!-- I also co-maintain [PICCO](https://github.com/applied-crypto-lab/picco/), an open-source MPC compiler and library. -->
 
 <!-- with application to -->
