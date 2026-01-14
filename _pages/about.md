@@ -21,7 +21,7 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I'm a Applied Cryptographer at [Input \| Output](https://iog.io/) specializing in information security, applied cryptography, and privacy enhancing technologies.
+I'm a Applied Cryptographer at [Input \| Output](https://iog.io/) specializing in information security, cryptographic protocols, and privacy enhancing technologies.
 
 <!-- and a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/). -->
 
