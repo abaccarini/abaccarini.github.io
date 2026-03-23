@@ -236,7 +236,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 29%;
+    width: 25%;
 
     .address {
       p {
@@ -267,7 +267,7 @@ ul.task-list input[type="checkbox"] {
   /* border-bottom: 1px solid var(--global-divider-color); */
   /* background-color: var(--global-bg-color); */
   /* opacity: 0.9; */
-  transition: 0.3s ease-out;
+  /* transition: 0.3s ease-out; */
 }
 
 header.nav-fixed {
@@ -278,7 +278,7 @@ header.nav-fixed {
 
 .nav-active {
   background-color: var(--global-bg-color);
-  transition: 0.3s ease-out;
+  /* transition: 0.3s ease-out; */
   /* background-color:#fff; */
   /* box-shadow: 5px -1px 12px -5px grey; */
 }
@@ -420,7 +420,7 @@ header.nav-fixed {
   margin-bottom: 25px;
   /* margin-bottom: 2rem; */
   .contact-icons {
-    font-size: 3rem;
+    font-size: 2.7rem;
 
     a {
       /* i::before { */
