@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 # subtitle: Principal Consultant, <a href='https://www.guardiancryptography.com/'><b>Guardian Cryptography</b></a>
-subtitle: Applied Cryptographer, <a href='https://iog.io/'><b>Input | Output</b></a>
+subtitle: Applied Cryptographer
 announcement:
   # - <b>I am actively seeking academic, industry, and government research & engineering opportunities in the Northeastern US/remote. Please email me if you’d like to chat!</b>
 
@@ -22,7 +22,7 @@ social: true
 
 Hi, thanks for stopping by! 👋
 
-I'm a Applied Cryptographer at [Input \| Output](https://iog.io/) specializing in information security, cryptographic protocols, and privacy enhancing technologies.
+I'm a Applied Cryptographer at [Hoth](https://hoth.com/) specializing in information security, cryptographic protocols, and privacy enhancing technologies.
 
 <!-- and a principal consultant at [Guardian Cryptography](https://www.guardiancryptography.com/). -->
 
